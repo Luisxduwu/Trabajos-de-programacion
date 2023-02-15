@@ -1,0 +1,28 @@
+:root{
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: ##0097A5;
+    --gris: #757575;
+    --grisclaro: #Dfe9f3;
+    --fuentepricnipal: 20rem;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+
+    font-family: 'Fredoka One', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Righteous', cursive;
+}
+
+.title{
+    text-align:  center;;
+    font-size: 3.8rem;
+    color: var(--primario);
+    font-family: 'PT Serif', serif;
+font-family: 'Zeyada', cursive;
+}
